@@ -1,5 +1,8 @@
 \BOOKMARK [1][-]{section.1}{Preliminaries}{}
 \BOOKMARK [1][-]{section.2}{Building plots}{}
+\BOOKMARK [2][-]{subsection.2.1}{Plotting two variables}{section.2}
 \BOOKMARK [1][-]{section.3}{Beyond base}{}
-\BOOKMARK [2][-]{subsection.3.1}{Splitting by color}{section.3}
-\BOOKMARK [2][-]{subsection.3.2}{Faceting}{section.3}
+\BOOKMARK [2][-]{subsection.3.1}{Splitting variables into colors}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{Layering}{section.3}
+\BOOKMARK [2][-]{subsection.3.3}{Faceting}{section.3}
+\BOOKMARK [1][-]{section.4}{Stat layers}{}

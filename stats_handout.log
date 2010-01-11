@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  10 JAN 2010 16:31
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  11 JAN 2010 10:51
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -438,52 +438,72 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2009/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2009/03/27 v2.3d microtype main configuration file (RS)
 ))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen120
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen121
+\subfiglabelskip=\skip50
+\c@subfigure=\count97
+\c@lofdepth=\count98
+\c@subtable=\count99
+\c@lotdepth=\count100
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2009/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
 (./stats_handout.aux)
 \openout1 = `stats_handout.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Try loading font information for OT1+bch on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 39.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/psnfss/ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 )
 (/usr/local/texlive/2009/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count97
-\scratchdimen=\dimen120
+\scratchcounter=\count101
+\scratchdimen=\dimen122
 \scratchbox=\box27
-\nofMPsegments=\count98
-\nofMParguments=\count99
+\nofMPsegments=\count102
+\nofMParguments=\count103
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count100
-\MPscratchDim=\dimen121
-\MPnumerator=\count101
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen123
+\MPnumerator=\count105
 \everyMPtoPDFconversion=\toks23
 )
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 39.
  (/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count102
+\c@section@level=\count106
 )
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
 
 (./stats_handout.out) (./stats_handout.out)
 \@outlinefile=\write3
@@ -491,8 +511,9 @@ LaTeX Info: Redefining \pageref on input line 37.
 
 \AtBeginShipoutBox=\box28
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 37.
+LaTeX Info: Redefining \microtypecontext on input line 39.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -512,64 +533,85 @@ File: mt-cmr.cfg 2008/02/29 v1.9a microtype config. file: Computer Modern Roman
  (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 39.
+(Font)              <12> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 39.
+(Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 39.
+(Font)              <6> on input line 41.
 LaTeX Font Info:    Font shape `OT1/bch/bx/n' in size <10> not available
-(Font)              Font shape `OT1/bch/b/n' tried instead on input line 44.
+(Font)              Font shape `OT1/bch/b/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `OT1/bch/bx/n' in size <12> not available
-(Font)              Font shape `OT1/bch/b/n' tried instead on input line 44.
+(Font)              Font shape `OT1/bch/b/n' tried instead on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 85.
+(Font)              <7> on input line 87.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 85.
+(Font)              <5> on input line 87.
  [1
 
 {/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<histogram.pdf, id=33, 505.89pt x 505.89pt>
+<histogram.pdf, id=45, 505.89pt x 505.89pt>
 File: histogram.pdf Graphic file (type pdf)
  <use histogram.pdf>
-<density.pdf, id=34, 505.89pt x 505.89pt>
+<density.pdf, id=46, 505.89pt x 505.89pt>
 File: density.pdf Graphic file (type pdf)
- <use density.pdf> [2]
-<color1.pdf, id=42, 505.89pt x 505.89pt>
+ <use density.pdf> [2 <./histogram.pdf> <./density.pdf>] <geom-point.pdf, id=62
+, 505.89pt x 505.89pt>
+File: geom-point.pdf Graphic file (type pdf)
+
+<use geom-point.pdf> <geom-bin2d.pdf, id=63, 505.89pt x 505.89pt>
+File: geom-bin2d.pdf Graphic file (type pdf)
+
+<use geom-bin2d.pdf> <geom-hex.pdf, id=64, 505.89pt x 505.89pt>
+File: geom-hex.pdf Graphic file (type pdf)
+
+<use geom-hex.pdf> [3 <./geom-point.pdf> <./geom-bin2d.pdf> <./geom-hex.pdf>]
+<color1.pdf, id=87, 505.89pt x 505.89pt>
 File: color1.pdf Graphic file (type pdf)
  <use color1.pdf>
-<color2.pdf, id=43, 505.89pt x 505.89pt>
+<color2.pdf, id=88, 505.89pt x 505.89pt>
 File: color2.pdf Graphic file (type pdf)
  <use color2.pdf>
-<color3.pdf, id=44, 505.89pt x 505.89pt>
+<color3.pdf, id=89, 505.89pt x 505.89pt>
 File: color3.pdf Graphic file (type pdf)
  <use color3.pdf>
-<hexbin-facets.pdf, id=45, 729.72423pt x 282.32245pt>
+<points-color.pdf, id=91, 736.21497pt x 374.8651pt>
+File: points-color.pdf Graphic file (type pdf)
+ <use points-color.pdf>
+[4 <./color1.pdf> <./color2.pdf> <./color3.pdf> <./points-color.pdf>]
+<scatter.pdf, id=197, 505.89pt x 505.89pt>
+File: scatter.pdf Graphic file (type pdf)
+ <use scatter.pdf>
+<contour.pdf, id=198, 505.89pt x 505.89pt>
+File: contour.pdf Graphic file (type pdf)
+ <use contour.pdf>
+<scatter-contour.pdf, id=199, 505.89pt x 505.89pt>
+File: scatter-contour.pdf Graphic file (type pdf)
+ <use scatter-contour.pdf>
+[5 <./scatter.pdf> <./contour.pdf> <./scatter-contour.pdf>]
+<hexbin-facets.pdf, id=222, 729.72423pt x 282.32245pt>
 File: hexbin-facets.pdf Graphic file (type pdf)
  <use hexbin-facets.pdf>
-[3 <./histogram.pdf> <./density.pdf>] [4 <./color1.pdf> <./color2.pdf> <./color
-3.pdf> <./hexbin-facets.pdf>] (./stats_handout.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[6 <./hexbin-facets.pdf>] (./stats_handout.aux) ) 
 Here is how much of TeX's memory you used:
- 7057 strings out of 493848
- 109788 string characters out of 3149207
- 218215 words of memory out of 3000000
- 10152 multiletter control sequences out of 15000+200000
- 28072 words of font info for 86 fonts, out of 3000000 for 9000
+ 7299 strings out of 493848
+ 113174 string characters out of 3149207
+ 218960 words of memory out of 3000000
+ 10320 multiletter control sequences out of 15000+200000
+ 35868 words of font info for 121 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,8n,38p,555b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2009/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2009/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texl
-ive/2009/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive
-/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/
-2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2
-009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/200
-9/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on stats_handout.pdf (4 pages, 437003 bytes).
+ 38i,8n,38p,1073b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2009/texmf
+-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2009/texmf-dist/fonts/typ
+e1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/
+bitstrea/charter/bchr8a.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/bit
+strea/charter/bchri8a.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt8.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmtt9.pfb>
+Output written on stats_handout.pdf (6 pages, 3370297 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 23623 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 31874 words of extra memory for PDF output out of 35830 (max. 10000000)
 
